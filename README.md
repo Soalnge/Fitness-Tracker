@@ -1,4 +1,4 @@
-# Fitness Tracker - Final Project
+# Fitness Tracker 
 
 This repository contains my completed final project for CS 4350.
 Download the ZIP file to access all project files, including:
